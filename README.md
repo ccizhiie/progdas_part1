@@ -1,8 +1,12 @@
-# 🎀🎀🌸✨ Tugas Semester 1 ✨🌸🎀🎀
+<h1 align="center" style="color:pink; font-family:cursive;">
+🌸✨ Tugas Semester 1 ✨🌸
+</h1>
 
-Haii~ 👋
-Repo ini khusus buat nyimpen **tugas semester 1** ku~ 🎀
-Jadi kalau nemu file dengan nama aneh-aneh, itu kemungkinan besar PR / project kampus wkkwkw
+<p align="center" style="color:#ff69b4; font-size:18px; font-family:Comic Sans MS;">
+Repo ini nyimpen semua tugas semester satuku~ 🎀<br>
+Jangan kaget kalau masih berantakan yaa 😆💕
+</p>
+
 
 ---
 
@@ -15,8 +19,6 @@ Jadi kalau nemu file dengan nama aneh-aneh, itu kemungkinan besar PR / project k
 ---
 
 ## 🌷 Catatan Kecil
-
-* Jangan kaget kalau kodenya masih berantakan 🐣
 * Aku masih belajar, jadi repo ini penuh percobaan 🌈
 * Tapi gapapa, semua orang pernah jadi pemula kan? 💕
 
@@ -27,4 +29,4 @@ Jadi kalau nemu file dengan nama aneh-aneh, itu kemungkinan besar PR / project k
 Makasih udah mampir! Semoga repo cintaa ini bisa bikin kamu senyum dikit hehe 🌸
 Kalau mau kasih saran / bantuin, boleh banget! ✨
 
-> 💌 *Dari aku yang masih pejuang semester satu* 💌
+> 💌 *built by cintaa>,<* 💌
